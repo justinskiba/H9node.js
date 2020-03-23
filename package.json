@@ -1,0 +1,28 @@
+{
+  "name": "H9node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.1.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinskiba/H9node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinskiba/H9node.js/issues"
+  },
+  "homepage": "https://github.com/justinskiba/H9node.js#readme"
+}
